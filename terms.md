@@ -1,4 +1,4 @@
-Quordle.app Terms
+### Quordle.app Terms
 
 
 LICENSED APPLICATION END USER LICENSE AGREEMENT
