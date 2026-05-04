@@ -1,65 +1,192 @@
-# Quordle App
-Quordle App
+# Quordle Privacy Policy
 
-Privacy Policy
+_Last updated: May 4, 2026_
 
-This app is built the Wordle app as a Free app. This SERVICE is provided  at no cost and is intended for use as is.
+This Privacy Policy explains how Quordle ("the App", "we", "us", or "our") handles information when you use it. Quordle is provided free of charge with optional in-app purchases and is intended for use as-is.
 
-This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
+By downloading, installing, or using Quordle, you acknowledge that you have read this Privacy Policy and agree to the practices described here. If you do not agree with this policy, please do not use the App.
 
-If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
+The terms used in this Privacy Policy have the same meanings as in our Terms of Service unless otherwise defined here.
 
-The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Wordle unless otherwise defined in this Privacy Policy.
+## Summary
 
-Information Collection and Use
+We do **not** sell your personal information. We do **not** require an account to play. Most of your game data lives on your device. We work with a small number of third-party services to keep the App free, sync your progress when you choose to sign in, process purchases, show ads, and detect bugs. You can disable personalized advertising at any time on iOS, and you can request deletion of any synced data by contacting us.
 
-For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information, including but not limited to We do not collect anything. The information that I request will be retained on your device and is not collected by me in any way.
+## 1. Information We Collect
 
-The app does use third-party services that may collect information used to identify you.
+We try to collect as little information as possible. The information we handle falls into the following categories:
 
-Link to the privacy policy of third-party service providers used by the app
+### 1.1 Game Data Stored On Your Device
 
-    Google Play Services
+Most of what Quordle creates while you play stays on your device:
 
-Log Data
+- Daily and practice puzzle progress
+- Streaks, win/loss history, and stats
+- Preferences (theme, sound, haptics, reminder time)
+- Whether you've completed onboarding
+- Local history used to power Spotlight search and Siri shortcuts
 
-I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
+This data is stored in standard iOS / iPadOS / macOS / visionOS app storage. It is not transmitted to us unless you choose to sign in or sync.
 
-Cookies
+### 1.2 Account and Sync Data (Optional)
 
-Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
+If you choose to sign in, the App may store the following on our servers via a third-party authentication and cloud-storage provider:
 
-This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
+- A non-personal account identifier
+- Your stats, progress, and entitlements (so they sync across your devices)
+- The email address or sign-in identifier you used to create the account
 
-Service Providers
+If you sign in with **Sign in with Apple**, Apple may relay a private email address that does not identify you personally.
 
-I may employ third-party companies and individuals due to the following reasons:
+### 1.3 Purchase and Subscription Data
 
-    To facilitate our Service;
-    To provide the Service on our behalf;
-    To perform Service-related services; or
-    To assist us in analyzing how our Service is used.
+If you make an in-app purchase or start a Premium subscription:
 
-I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
+- The purchase is processed by the App Store (Apple). We do **not** receive or store your name, billing address, or payment card details.
+- Our payment-and-subscription service receives a transaction receipt so it can validate your purchase, restore it on other devices, and tell the App whether your Premium entitlement is currently active.
+- We may store a non-personal identifier linked to your purchase so we can verify entitlement status.
 
-Security
+### 1.4 Device and Diagnostic Data
 
-I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
+If the App crashes or encounters an error, third-party diagnostic tools may automatically collect:
 
-Links to Other Sites
+- A device model identifier (e.g., "iPhone15,2")
+- The operating system version
+- The App version and build
+- The state of the App when the error occurred
+- Stack traces and error messages
+- An anonymous installation identifier
+- The approximate time of the error
 
-This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by me. Therefore, I strongly advise you to review the Privacy Policy of these websites. I have no control over and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services.
+This data is used solely to find and fix bugs.
 
-Children’s Privacy
+### 1.5 Advertising Identifiers
 
-These Services do not address anyone under the age of 13. I do not knowingly collect personally identifiable information from children under 13 years of age. In the case I discover that a child under 13 has provided me with personal information, I immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact me so that I will be able to do the necessary actions.
+The free version of Quordle is supported by ads. Depending on your iOS tracking choice (see Section 4), our advertising partners may receive your device's advertising identifier (IDFA) along with limited contextual information about the ad placement. If you do not allow tracking, no advertising identifier is shared, but ads will still be shown — they will just be non-personalized.
 
-Changes to This Privacy Policy
+### 1.6 Aggregated Usage Information
 
-I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
+Anonymous, aggregated information may be collected to help us understand how the App is used — for example, which features are popular, how long sessions last on average, and where users encounter friction. This data does not identify you individually.
 
-This policy is effective as of 2022-02-18
+## 2. How We Use Information
 
-Contact Us
+We use the limited information we collect to:
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at kaashiorg[@]protonmail.com. 
+- Provide, operate, and maintain the App
+- Sync your progress across your devices when you sign in
+- Process and validate in-app purchases and Premium subscriptions
+- Detect, diagnose, and fix bugs and crashes
+- Show ads in the free version, in compliance with your tracking preferences
+- Measure how the App and its ads perform, in aggregate
+- Send local reminder notifications (only if you opt in during onboarding)
+- Respond to your support requests
+
+We do **not** use your information to build advertising profiles ourselves, and we do **not** sell your personal information to anyone.
+
+## 3. Third-Party Services
+
+To operate Quordle we rely on third-party services. We have intentionally kept this list short. The categories of services we use are:
+
+| Category | Purpose |
+| --- | --- |
+| Authentication & cloud storage | To let you sign in and sync stats/progress across devices |
+| Payment & subscription processing | To validate purchases, restore them on other devices, and check Premium status |
+| Advertising services | To display ads in the free version and report aggregate performance |
+| Diagnostic & crash reporting | To detect and fix bugs |
+| Analytics | To understand, in aggregate, how the App is used |
+
+Each of these third parties operates under its own privacy policy and may collect information as part of providing its service. We provide these third parties only the information they need to do their job, and they are contractually obligated not to use that information for unrelated purposes. We encourage you to review the privacy policies of any third-party services that may be referenced in the App or its documentation.
+
+## 4. Advertising and App Tracking Transparency (ATT) on iOS
+
+The free version of Quordle is ad-supported. To keep the App free and the ads relevant, our ad partners can — with your permission — use your device's advertising identifier.
+
+On iOS, Apple's **App Tracking Transparency (ATT)** framework requires apps to ask before any cross-app tracking can happen. When you first set up Quordle (or shortly after, if you already had the App installed before ads were introduced), you'll see Apple's standard ATT prompt.
+
+- **Allow tracking** — ads may be personalized based on your interests, and our advertising partners may use your advertising identifier in line with their privacy policies.
+- **Ask not to track** — no advertising identifier is shared. Ads will still appear (this is what keeps the App free), but they will not be personalized.
+
+The App works identically either way. There is no penalty, locked content, or feature loss based on your tracking choice.
+
+You can change your choice at any time:
+
+- **iOS-wide**: Settings → Privacy & Security → Tracking
+- **Per-app**: Settings → Quordle → Allow Tracking
+
+If you upgrade to **Premium**, ads are removed entirely and no ad-related identifiers are shared.
+
+## 5. Notifications
+
+If you allow notifications during onboarding, the App may send you a single gentle reminder to play the day's puzzle if you've been away for a day or more. These notifications are scheduled and delivered locally by your device — they do **not** require us to send anything from a server, and we do **not** track whether you open them.
+
+You can disable notifications at any time under **Settings → Notifications → Quordle**.
+
+## 6. Photo Library
+
+If you tap "Save Image" on a result screen, the App will request permission to save the image to your Photo Library. The image is saved locally on your device. We never read or upload anything from your library.
+
+## 7. Cookies and Similar Technologies
+
+The App itself does not use browser cookies. Some embedded components (such as the in-app ad rendering) may use cookie-equivalent local storage to function and to measure ad performance. This storage is governed by the privacy policies of the relevant third-party services.
+
+## 8. Data Retention
+
+- **Local game data** stays on your device until you delete the App or reset its data.
+- **Synced account data** (if you sign in) is retained for as long as your account is active. You can request deletion at any time (see Section 11).
+- **Purchase records** may be retained for as long as required for accounting, tax, and legal purposes.
+- **Diagnostic and crash data** is typically retained for a limited period (commonly 90 days) by our diagnostic provider, then deleted.
+- **Aggregate analytics** is non-identifying and may be retained indefinitely.
+
+## 9. International Data Transfers
+
+The third-party services we use may process data in countries other than your own, including the United States. By using the App you consent to this processing. Where required by law, our service providers use standard contractual safeguards (such as the European Commission's Standard Contractual Clauses) to protect data when it crosses borders.
+
+## 10. Your Rights
+
+Depending on where you live, you may have the right to:
+
+- **Access** the personal data we hold about you
+- **Correct** inaccurate personal data
+- **Delete** your personal data ("right to be forgotten")
+- **Object** to or **restrict** certain processing
+- **Withdraw consent** at any time (for processing based on consent)
+- **Port** your data in a machine-readable format
+- **Lodge a complaint** with your local data protection authority
+
+Residents of California, the EEA, the UK, and other jurisdictions with comparable laws (such as GDPR, CCPA/CPRA) may have additional rights. To exercise any of these rights, please contact us using the contact details in Section 14.
+
+## 11. Security
+
+We use commercially reasonable technical and organizational measures to protect the limited information processed through the App, including encryption in transit and access controls. However, no method of transmission or electronic storage is 100% secure, and we cannot guarantee absolute security.
+
+If you become aware of a security issue affecting the App, please contact us immediately.
+
+## 12. Children's Privacy
+
+Quordle is not directed at children under the age of 13 (or the equivalent minimum age in your jurisdiction). We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us and we will take steps to delete that information.
+
+## 13. Contact Us
+
+If you have questions, concerns, or requests about this Privacy Policy, please contact us:
+
+**Email:** kaashiorg [at] protonmail.com
+
+We aim to respond to all inquiries within a reasonable timeframe.
+
+## 14. Links to Other Sites
+
+The App may contain links to external sites we do not operate (for example, third-party ad destinations or links shared by users). We are not responsible for the content, privacy policies, or practices of those external sites. We encourage you to review their privacy policies before submitting any information.
+
+## 15. Changes to This Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes to our practices or for legal, regulatory, or operational reasons. When we update it, we will:
+
+- Revise the "Last updated" date at the top of this page
+- Post the updated policy at the same URL where you found this one
+- For material changes, take reasonable steps to notify you (such as an in-app notice on next launch)
+
+Your continued use of the App after the updated policy takes effect means you accept the changes. If you do not agree, please discontinue use of the App.
+
+---
+
+This policy is effective as of the "Last updated" date above. Earlier versions of this policy supersede each other on a rolling basis.
